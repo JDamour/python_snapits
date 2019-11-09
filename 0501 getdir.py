@@ -1,7 +1,7 @@
 import ftplib
 
-connect = ftplib.FTP("www.ishyiga.net")
-connect.login("ishyiga", "Jkejdjh51463")
+connect = ftplib.FTP("www.ioy.net")
+connect.login("ioy", "oi")
 data = []
 connect.dir(data.append)
 connect.quit()
